@@ -1,1 +1,2 @@
 This is the initial content of new_file.txt
+New change for pull request
